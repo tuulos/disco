@@ -1,4 +1,3 @@
-
 Disco - Massive data, Minimal code
 ==================================
 
@@ -13,3 +12,7 @@ balancing, locking, job scheduling or fault tolerance, all of which are taken
 care by Disco.
 
 See `discoproject.org <http://discoproject.org>`_ for more information.
+
+.. image:: https://d38jwvt3lv6c1n.cloudfront.net/tuulos/disco/trend.png
+   :alt: Bitdeli Badge
+   :target: https://bitdeli.com/free
