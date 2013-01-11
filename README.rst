@@ -13,8 +13,3 @@ care by Disco.
 
 See `discoproject.org <http://discoproject.org>`_ for more information.
 
-
-.. image:: https://d38jwvt3lv6c1n.cloudfront.net/tuulos/disco/trend.png
-   :alt: Bitdeli badge
-   :target: https://bitdeli.com/free
-
